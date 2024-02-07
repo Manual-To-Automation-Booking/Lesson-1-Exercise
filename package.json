@@ -1,0 +1,17 @@
+{
+  "name": "lesson-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/login-test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^121.0.0",
+    "selenium-webdriver": "^4.9.2",
+    "edgedriver": "^5.2.1",
+    "geckodriver": "^4.0.3"
+  }
+}
